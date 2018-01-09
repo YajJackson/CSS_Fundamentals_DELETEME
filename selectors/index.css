@@ -1,0 +1,21 @@
+body {
+  background-color: coral;
+}
+
+p {
+  font-family: sans-serif;
+  color: red;
+}
+
+#one {
+  color: cornflowerblue;
+}
+
+.bordered {
+  border: 2px solid fuchsia;
+}
+
+.background-black {
+  background-color: black;
+}
+
